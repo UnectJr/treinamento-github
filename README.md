@@ -9,5 +9,5 @@
 * Criação/Organização de commits
 * Push's em branchs
 * Abrir/Merge um pull requests
-* Resolver possíveis
+* Resolver possíveis conflitos
 * Deletar commits
